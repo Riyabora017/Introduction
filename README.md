@@ -24,5 +24,6 @@ It is designed practical examples of browser automation.
 - Chrome/Firefox Browser  
 - WebDriver (ChromeDriver/GeckoDriver)
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository:
+   
